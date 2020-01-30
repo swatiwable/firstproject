@@ -1,0 +1,52 @@
+{
+	"UC62_63_CFDHandel": {
+		"Einzelkonto_DepotCFD_NeuesKonto": {
+			"Kunde_bei_der_Consorsbank": "Nein",
+			"Anrede": "Herr",
+			"Vorname": "Max",
+			"Nachname": "Mustermann",
+			"Geburtsdatum_TT": "10",
+			"Geburtsdatum_MM": "10",
+			"Geburtsdatum_JJ": "1980",
+			"Geburtsort": "Nuernberg",
+			"Geburtsland": "Deutschland",
+			"Staatsangehoerigkeit": "Deutschland",
+			"Weitere_Staatsangehoerigkeit_USA": "Nein",
+			"USA_steuerpflichtig": "Nein",
+			"Strasse_Hausnummer": "Bahnhofstr.55",
+			"PLZ": "90402",
+			"Ort": "Nuernberg",
+			"Land": "Deutschland",
+			"Die_eingegebene_Adresse_ist_nicht_eindeutig": "Meine eingegebene Adresse beibehalten",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"EMail": "test@test.de",
+			"EMail_wiederholen": "test@test.de",
+			"Telefon_privat": "123456789",
+			"Beruf": "Angestellte(r)",
+			"Branche": "Finanzdienstleistung, Versicherung",
+			"Jahreseinkommen_Netto": "40.001 bis 60.000 Euro",
+			"Verfuegbares_Vermoegen": "30.001 bis 60.000 Euro",
+			"Mit_sehr_hohem_Risiko": "Select",
+			"Zulassung_zum_Handel_Finanztermingeschaeften": "Select",
+			"Erklaerung_zu_Risiken_bei_Finanztermingeschaeften": "Select",
+			"Besondere_Merkmale_und_Risikoerklaerung": "Select",
+			"Einverstaendnis_mit_PRIIP_Verordnung": "Select",
+			"Message": "Danke für Ihren Antrag. Sie haben es fast geschafft."
+		},
+		"Einzelkonto_DepotCFD_BestehendesKonto": {
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880589404",
+			"PIN_Password": "12345",
+			"Depot": "Depot | 888589406",
+			"USA_Steuerpflichtig": "Nein",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"EMail_wiederholen": "echo.burger@test.de",
+			"Telefon_privat": "1234567890",
+			"Mit_sehr_hohem_Risiko": "Select",
+			"Zulassung_zum_Handel_Finanztermingeschaeften": "Select",
+			"Erklaerung_zu_Risiken_bei_Finanztermingeschaeften": "Select",
+			"Besondere_Merkmale_und_Risikoerklaerung": "Select",
+			"Message": "Danke für Ihren Antrag"
+		}
+	}
+}

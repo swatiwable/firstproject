@@ -1,0 +1,119 @@
+{
+	"UC49_50_53_54_GVKontoKind": 
+	{
+		"GVDepotBestehendesKind_Anlegen": 
+		{
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880804426",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Ja",
+			"Waehlen_Einen_Kontakt": "BETA CHILD",
+			"USA_steuerpflichtig": "Nein",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"Familienstand_2": " verheiratet",
+			"USA_steuerpflichtig_2": "Nein",
+			"EMail_wiederholen_2": "test@test.com",
+			"Alleiniger_Gesetzlicher_Vertreter_2": "Select",
+			"Erfahrungen_im_Bereich_Wertpapierhande_2": "Keine Angaben",
+			"Einverstaendnis_mit_PRIIP_Verordnung" : "Select",
+			"Message": "Danke für Ihren Antrag. Sie haben es fast geschafft."
+		},
+
+		"GVDepotWeiteresKind_Anlegen": 
+		{
+		
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880804426",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Ja",
+			"Waehlen_Einen_Kontakt": "Weiteres Kind",
+			"Anrede_1": "Herr",
+			"Vorname_1": "Kind",
+			"Nachname_1": "Mustermann",
+			"Geburtsdatum_TT_1": "10",
+			"Geburtsdatum_MM_1": "10",
+			"Geburtsdatum_JJ_1": "2002",
+			"Geburtsort_1": "Nürnberg",
+			"Geburtsland_1": "Deutschland",
+			"Staatsangehoerigkeit_1": "Deutschland",
+			"Weitere_Staatsangehoerigkeit_USA_1": "Nein",
+			"USA_steuerpflichtig_1": "Nein",
+			"Strasse_Hausnummer_1": "Bahnhofstr. 55",
+			"PLZ_1": "90402",
+			"Ort_1": "Nürnberg",
+			"Land_1": "Deutschland",
+			"Die_eingegebene_Adresse_ist_nicht_eindeutig_1": "Meine eingegebene Adresse beibehalten",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA_1": "Nein",
+			"Telefon_privat_1": "123456789",
+			"Beruf_1": "Angestellte(r)",
+			"Branche_1": "Finanzdienstleistung, Versicherung",
+			"Jahreseinkommen_Netto_1": "40.001 bis 60.000 Euro",
+			"Verfuegbares_Vermoegen_1": " 30.001 bis 60.000 Euro",
+			"Familienstand_2": "verheiratet",
+			"USA_steuerpflichtig_2": "Nein",
+			"EMail_wiederholen_2": "test@test.com",
+			"Alleiniger_Gesetzlicher_Vertreter_2": "Select",
+			"Erfahrungen_im_Bereich_Wertpapierhande_2": "Keine Angaben",
+			"Einverstaendnis_mit_PRIIP_Verordnung" : "Select",
+			"Message": "Danke für Ihren Antrag. Sie haben es fast geschafft."
+		},
+
+		"GVTagesgeldBestehendesKind_Anlegen": 
+		{
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880804426",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Ja",
+			"Waehlen_Einen_Kontakt": "BETA CHILD",
+			"USA_steuerpflichtig": "Nein",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"Familienstand_2": "verheiratet",
+			"USA_steuerpflichtig_2": "Nein",
+			"EMail_wiederholen_2": "test@test.com",
+			"Alleiniger_Gesetzlicher_Vertreter_2": "Select",
+			"Message": "Danke für Ihren Antrag. Sie haben es fast geschafft."
+		},
+
+		"GVTagesgeldWeiteresKind_Anlegen": 
+		{
+			
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880804426",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Ja",
+			"Waehlen_Einen_Kontakt": "Weiteres Kind",
+			"Anrede_1": "Herr",
+			"Vorname_1": "Kind",
+			"Nachname_1": "Mustermann",
+			"Geburtsdatum_TT_1": "10",
+			"Geburtsdatum_MM_1": "10",
+			"Geburtsdatum_JJ_1": "2002",
+			"Geburtsort_1": "Nürnberg",
+			"Geburtsland_1": "Deutschland",
+			"Staatsangehoerigkeit_1": "Deutschland",
+			"Weitere_Staatsangehoerigkeit_USA_1": "Nein",
+			"USA_steuerpflichtig_1": "Nein",
+			"Strasse_Hausnummer_1": "Bahnhofstr. 55",
+			"PLZ_1": "90402",
+			"Ort_1": "Nürnberg",
+			"Land_1": "Deutschland",
+			"Die_eingegebene_Adresse_ist_nicht_eindeutig_1": "Meine eingegebene Adresse beibehalten",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA_1": "Nein",
+			"Telefon_privat_1": "123456789",
+			"Beruf_1": "Angestellte(r)",
+			"Branche_1": "Finanzdienstleistung, Versicherung",
+			"Jahreseinkommen_Netto_1": "40.001 bis 60.000 Euro",
+			"Verfuegbares_Vermoegen_1": " 30.001 bis 60.000 Euro",
+			"Familienstand_2": " verheiratet",
+			"USA_steuerpflichtig_2": "Nein",
+			"EMail_wiederholen_2": "test@test.com",
+			"Alleiniger_Gesetzlicher_Vertreter_2": "Select",
+			"Erfahrungen_im_Bereich_Wertpapierhande_2": "Keine Angaben",
+			"Message": "Danke für Ihren Antrag. Sie haben es fast geschafft."
+		}
+	}
+}

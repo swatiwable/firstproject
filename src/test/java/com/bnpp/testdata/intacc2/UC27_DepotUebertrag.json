@@ -1,0 +1,17 @@
+{
+	"UC27_DepotUebertrag": 
+	{
+		"DepotUebertrag_Intern": 
+		{
+		    "UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",		
+			"Ohne_Glaeubigerwechsel": "Select",
+			"FromDepot_Nr":"888551001",
+			"Empfaengerkonto": "Privatkonto",
+			"Depotinhaber_Vorname": "DELTA",
+			"Depotinhaber_Nachname": "BUERICZUEK",
+			"ToDepot_Nr": "888605029",
+			"zu_uebertragende_Stueke":"1"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"UC27_DepotUebertrag": 
+	{
+	"KaufOrder_Anlegen_Anleihe": 
+		{
+		    "UserID_Kontonummer": "880804000",
+		    "PIN_Password": "12345",		
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "710000",
+			"Handelsplatz": "Tradegate",
+			"Stueck_Betrag": "1,00",
+			"Ordertyp": "Market",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+			
+		},
+	
+		"DepotUebertrag_Intern": 
+		{
+		    "UserID_Kontonummer": "880804000",
+		    "PIN_Password": "12345",		
+			"Ohne_Glaeubigerwechsel": "Select",
+			"FromDepot_Nr":"888804002",
+			"Empfaengerkonto": "Privatkonto",
+			"Depotinhaber_Vorname": "ALPHA",
+			"Depotinhaber_Nachname": "BREITLING",
+			"ToDepot_Nr": "888804033",
+			"Ich_habe_diesen_Hinweis_zur_Kenntnis_genommen":"Select",
+			"zu_uebertragende_Stueke":"1"
+		}
+	}	
+}

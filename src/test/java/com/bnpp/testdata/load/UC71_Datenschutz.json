@@ -1,0 +1,28 @@
+{
+	"UC71_Datenschutz": {
+		"Datenschutz_select_All_Unselected": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"E-Mail_informiert": "",
+			"telefonisch_informiert": "",
+			"meine_Bewegungen": "",
+			"ErrorMesssages": {
+				"EmailMessage":"kostenlose E-Mail-Benachrichtigungen über Produkte und Services zu erhalten",
+				"TelephoneMessage":"kostenlose Telefon-Benachrichtigungen über Produkte und Services zu erhalten",
+				"TrackingMessage":"Bewegungen auf der Consorsbank-Website zu verarbeiten, um mir bessere persönliche Informationen zukommen zu lassen"
+			}
+		},
+		"Datenschutz_select_All_Selected": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"E-Mail_informiert": "Select",
+			"telefonisch_informiert": "Select",
+			"meine_Bewegungen": "Select",
+			"ErrorMesssages": {
+				"EmailMessage":"kostenlose E-Mail-Benachrichtigungen über Produkte und Services zu erhalten",
+				"TelephoneMessage":"kostenlose Telefon-Benachrichtigungen über Produkte und Services zu erhalten",
+				"TrackingMessage":"Bewegungen auf der Consorsbank-Website zu verarbeiten, um mir bessere persönliche Informationen zukommen zu lassen"
+			}
+		}
+	}
+}

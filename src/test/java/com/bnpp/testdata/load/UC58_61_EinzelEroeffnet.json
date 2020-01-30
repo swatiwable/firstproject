@@ -1,0 +1,30 @@
+{
+	"UC58_61_EinzelEroeffnet": {
+		"Einzelkonto_KontoDepot": {
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "880804017",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Nein",
+			"USA_Steuerpflichtig": "Nein",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"EMail_wiederholen": "test@test.com",
+			"Telefon_privat": "1234567890",
+			"Erfahrungen_im_Bereich_Wertpapierhande": "Keine Angaben ",
+			"Einverstaendnis_mit_PRIIP_Verordnung": "Select",
+			"Message": "Danke für Ihren Antrag"
+		},
+		"Einzelkonto_Tagesgeld": {
+			"Kunde_bei_der_Consorsbank": "Ja",
+			"UserID_Kontonummer": "253255767",
+			"PIN_Password": "12345",
+			"Gemeinschaftskonto_eroeffnen": "Nein",
+			"minderjaehriges_Kind_eroeffnen": "Nein",
+			"USA_Steuerpflichtig": "Nein",
+			"Ansaessigkeit_ausserhalb_Deutschlands_USA": "Nein",
+			"EMail_wiederholen": "test@test.com",
+			"Telefon_privat": "1234567890",
+			"Message": "Danke für Ihren Antrag"
+		}
+	}
+}

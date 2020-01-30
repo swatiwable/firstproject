@@ -1,0 +1,73 @@
+{
+	"UC28_29_30_Sparplan": {
+		"Sparplan_Anlegen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"WKN/Name/ISIN": "847101",
+			"Risikoklasse": "Select",
+			"Verkaufsunterlage": "Select",
+			"InformationFuerDenVerbraucher": "Select",
+			"Kategorie": "Sonstiges",
+			"Name": "TestSpar_1",
+			"Sparintervall": "monatlich",
+			"Immer_am": "1.des Montas",
+			"Laufzeit_von": "01.12.2019",
+			"Sparrate": "25",
+			"Dynamik": "5% p.a.",
+			"Zum_Date": "01",
+			"Zum_Month": "Nov",
+			"kontodaten_angeben_mit": "IBAN",
+			"IBAN": "DE19 7603 0080 0880 5510 16",
+			"Message": "Ihr Sparplan im Überblick"
+		},
+		"Sparplan_Aendern": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Created_Sparplan": "TestSpar_1",
+			"Aktionen": "Aenderung/Pause",
+			"Sparintervall": "zweimonatlich",
+			"Immer_am": "15.des Montas",
+			"Laufzeit_von": "15.12.2019",
+			"Zum_Date": "15",
+			"Zum_Month": "Nov",
+			"Message": "Ihre Sparplanänderung im Überblick"
+		},
+		"Sparplan_Einmalzahlung_Anlegen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Created_Sparplan": "TestSpar_1",
+			"Aktionen": "Einmalzahlung",
+			"Betrag": "25,00",
+			"Ausfuhrung_am": "15.12.2019",
+			"Kontodaten_angeben_mit": "IBAN",
+			"IBAN": "DE33 7603 0080 0880 8040 31",
+			"Message": "Ihre Einmalzahlung im Überblick"
+		},
+		"Sparplan_Einmalzahlung_Loeschen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Created_Sparplan": "TestSpar_1",
+			"Aktionen": "Auftragsuebersicht",
+			"Ja_ich_moechte_sparplan_loeschen": "Select",
+			"Message": "Ihre Löschung im Überblick"
+		},
+		"Sparplan_Wertpapierwechsel": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Created_Sparplan": "TestSpar_1",
+			"Aktionen": "Wertpapierwechsel",
+			"WKN/Name/ISIN": "848105",
+			"Verkaufsunterlage": "Select",
+			"InformationFuerDenVerbraucher": "Select",
+			"Message": "Ihr Sparplan im Überblick"
+		},
+		"Sparplan_Loeschen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Created_Sparplan": "TestSpar_1",
+			"Aktionen": "Auftragsuebersicht",
+			"Ja_ich_moechte_sparplan_loeschen": "Select",
+			"Message": "Ihre Sparplanlöschung im Überblick" 
+		}
+	}
+}

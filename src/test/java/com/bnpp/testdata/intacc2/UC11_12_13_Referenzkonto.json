@@ -1,0 +1,53 @@
+{
+	"UC11_12_13_Referenzkonto": 
+	{
+		"Referenzkonto_Verify_Errors": 
+		{
+			"UserID_Kontonummer": "253262743",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253262743",
+			"Empfanger_name": "",
+			"IBAN_oder_Kontonummer": "",
+			"Ich_bestaetige": "",
+			"ErrorMesssages":{
+			 "Empfanger_nameError":"Bitte fuellen Sie das Pflichtfeld aus.",
+			 "IBAN_oder_KontonummerError":"Bitte fuellen Sie das Pflichtfeld aus.",
+			 "Ich_bestaetigeError":"Bitte best�tigen Sie, dass Sie die Hinweise gelesen haben"}	
+		},
+		"Referenzkonto_Anlegen_IBAN": 
+		{
+			"UserID_Kontonummer": "253262743",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253262743",
+			"Empfanger_name": "Prof. Dr. NEMO CAPTAIN Two",
+			"IBAN_oder_Kontonummer": "DE37 7603 0080 0253 2627 50",
+			"Ich_bestaetige": "select",
+			"Message": "Ihr Referenzkonto wurde erfolgreich angelegt"
+		},
+		"Referenzkonto_Anlegen_BLZ": 
+		{
+			"UserID_Kontonummer": "253262743",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253262743",
+			"Empfanger_name": "Prof. Dr. NEMO CAPTAIN Three",
+			"IBAN_oder_Kontonummer": "0253262743",
+			"BLZ_Code": "76030080",
+			"Ich_bestaetige": "select",
+			"Message": "Ihr Referenzkonto wurde erfolgreich angelegt"
+		},
+		"Referenzkonto_loeschen_1": 
+		{
+			"UserID_Kontonummer": "253262743",
+			"PIN_Password": "12345",
+			"Created_Referenzkonton": "Prof. Dr. NEMO CAPTAIN Two",
+			"Message": "Ihr Referenzkonto wurde erfolgreich gelöscht"
+		},
+		"Referenzkonto_loeschen_2": 
+		{
+			"UserID_Kontonummer": "253262743",
+			"PIN_Password": "12345",
+			"Created_Referenzkonton": "Prof. Dr. NEMO CAPTAIN Three",
+			"Message": "Ihr Referenzkonto wurde erfolgreich gelöscht"
+		}
+	}
+}

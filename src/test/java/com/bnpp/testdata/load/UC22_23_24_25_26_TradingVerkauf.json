@@ -1,0 +1,34 @@
+{
+	"UC22_23_24_25_26_TradingVerkauf": {
+		"KaufOrder_Anlegen_Fonds": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "984811",
+			"Handelsplatz": "Tradegate",
+			"NominalStueck_Betrag": "1",
+			"Ordertyp": "Trailing Stop",
+			"Stop": "136,37",
+			"Abstand": "0,5",
+			"Toleranz_Nach_Stop_Hinzufuegen": "Select",
+			"Toleranz_Nach_Stop": "1,00",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+		},
+		"VerkaufOrder_Anlegen_Fonds": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Orderart": "VerKaufen",
+			"Name_WKN_ISIN": "984811",
+			"Handelsplatz": "Tradegate",
+			"NominalStueck_Betrag": "1",
+			"Ordertyp": "Trailing Stop",
+			"Stop": "136,37",
+			"Abstand": "0,5",
+			"Toleranz_Nach_Stop_Hinzufuegen": "Select",
+			"Toleranz_Nach_Stop": "1,00",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+		}
+	}
+}

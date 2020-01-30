@@ -1,0 +1,53 @@
+{
+	"UC11_12_13_Referenzkonto": 
+	{
+		"Referenzkonto_Verify_Errors": 
+		{
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253254184",
+			"Empfanger_name": "",
+			"IBAN_oder_Kontonummer": "",
+			"Ich_bestaetige": "",
+			"ErrorMesssages":{
+			 "Empfanger_nameError":"Bitte fuellen Sie das Pflichtfeld aus.",
+			 "IBAN_oder_KontonummerError":"Bitte fuellen Sie das Pflichtfeld aus.",
+			 "Ich_bestaetigeError":"Bitte bestätigen Sie, dass Sie die Hinweise gelesen haben"}	
+		},
+		"Referenzkonto_Anlegen_IBAN":
+		{
+		"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253254184",
+			"Empfanger_name": "KLAERCHEN BUSCH",
+			"IBAN_oder_Kontonummer": "DE90 7603 0080 0253 2540 36",
+			"Ich_bestaetige": "select",
+			"Message": "Ihr Referenzkonto wurde erfolgreich angelegt"
+		},
+		"Referenzkonto_Anlegen_BLZ": 
+		{
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto | 253254184",
+			"Empfanger_name": "Quebec Golf",
+			"IBAN_oder_Kontonummer": "0253254191",
+			"BLZ_Code": "76030080",
+			"Ich_bestaetige": "select",
+			"Message": "Ihr Referenzkonto wurde erfolgreich angelegt"
+		},
+		"Referenzkonto_loeschen_1": 
+		{
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Created_Referenzkonton": "KLAERCHEN BUSCH",
+			"Message": "Ihr Referenzkonto wurde erfolgreich gelöscht"
+		},
+		"Referenzkonto_loeschen_2": 
+		{
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Created_Referenzkonton": "Quebec Golf",
+			"Message": "Ihr Referenzkonto wurde erfolgreich gelöscht"
+		}
+	}
+}

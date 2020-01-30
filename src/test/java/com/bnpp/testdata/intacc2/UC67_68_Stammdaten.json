@@ -1,0 +1,29 @@
+{
+	"UC67_68_Stammdaten": {
+		"Stammdaten_Verify_Errors": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Strasse_Hausnr": "",
+			"PLZ": "",
+			"Ort": "",
+			"Branche": "Bitte auswaehlen",
+			"ErrorMesssages": {
+				"BrancheError": "Branche: Bitte waehlen Sie die Branche, in der Sie arbeiten, aus.",
+				"PLZError": "PLZ: Dieses Feld muss angegeben werden.",
+				"StrabeError": "Straße, Hausnr.: Dieses Feld muss angegeben werden.",
+				"OrtError": "Ort: Dieses Feld muss angegeben werden."
+			}
+		},
+		"Stammdaten_Verify_Save": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Strasse_Hausnr": "Bahnhofstr. 55",
+			"PLZ": "90402",
+			"Ort": "Nuernberg",
+			"Land": "Deutschland",
+			"Steueridentifikationsnummer": "49257301603",
+			"Beruf": "Arbeiter(in)",
+			"Branche": "Chemie, Pharma"
+		}
+	}
+}

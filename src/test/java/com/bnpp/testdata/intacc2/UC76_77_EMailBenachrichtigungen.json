@@ -1,0 +1,42 @@
+{
+	"UC76_77_EMailBenachrichtigungen": 
+	{
+		"EMail_Benachrichtigungen_Errors": 
+		{
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "Null",
+			"Statusaenderung_Einer_Offenen_Order": "Null",
+			"Ablauf_Gueltigkeit": "Null",
+			"CFD_Margin_Call": "Null",
+			"Hinweis_Benachrichtigungsservice": "Null",
+			"Messages" : "Hinweis: Bitte bestaetigen Sie durch Setzen des Hakens, dass Sie den Hinweis zur Kenntnis genommen haben."
+			
+		},
+
+		"EMail_Benachrichtigungen_Select": 
+		{
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "Check",
+			"Statusaenderung_Einer_Offenen_Order": "Check",
+			"Ablauf_Gueltigkeit": "Check",
+			"CFD_Margin_Call": "Check",
+			"Hinweis_Benachrichtigungsservice": "Check",
+			"Message": "Ihre aktuell gewaehlten E-Mailbenachrichtigungen",
+			"Status" : "Checked"
+		},
+		"EMail_Benachrichtigungen_Unselect": 
+		{
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "Uncheck",
+			"Statusaenderung_Einer_Offenen_Order": "Uncheck",
+			"Ablauf_Gueltigkeit": "Uncheck",
+			"CFD_Margin_Call": "Uncheck",
+			"Hinweis_Benachrichtigungsservice": "Check",
+			"Message": "Ihre aktuell gewaehlten E-Mailbenachrichtigungen",
+			"Status" : "Unchecked"
+		}
+	}
+}

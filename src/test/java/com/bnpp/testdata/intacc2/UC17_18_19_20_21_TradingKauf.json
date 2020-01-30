@@ -1,0 +1,94 @@
+{
+	"UC17_18_19_20_21_TradingKauf": 
+	{
+		"KaufOrder_Anlegen_Anleihe": 
+		{
+		    "UserID_Kontonummer": "880550990",
+		    "PIN_Password": "12345",		
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "A11QGR",
+			"Handelsplatz": "Tradegate",
+			"NominalStueck_Betrag": "10,000",
+			"Ordertyp": "Limit",
+			"Limit": "90",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+			
+		},
+		"KaufOrder_Anlegen_Aktie": 
+		{
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "703000",
+			"Handelsplatz": "Baader Bank (OTC)",
+			"NominalStueck_Betrag": "1",
+			"Ordertyp": "Stop Buy",
+			"Limit": "123,00",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+			
+		},
+		"KaufOrder_Anendern_Aktie": 
+		{
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Created_WKN": "703000",
+			"Status": "Offen",
+			"NominalStueck_Betrag": "1",
+			"Limit": "122,73",
+			"Message": " Ihre Orderaenderung wurde erfolgreich entgegengenommen."
+			
+		},
+		
+		"KaufOrder_Anlegen_Fonds1": 
+		{
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "632995",
+			"Handelsplatz": "Fondsgesellschaft",
+			"NominalStueck_Betrag": "1",
+			"Message": "Die Order wurde erfolgreich angelegt."
+			
+		},
+		"KaufOrder_Anlegen_Fonds2": 
+		{
+		
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Orderart": "Kaufen",
+			"Name_WKN_ISIN": "984811",
+			"Handelsplatz": "Tradegate",
+			"NominalStueck_Betrag": "1",
+			"Ordertyp": "Trailing Stop",
+			"Stop": "136,37",
+			"Abstand": "0,5",
+			"Toleranz_Nach_Stop_Hinzufuegen": "Select",
+			"Toleranz_Nach_Stop": "1,00",
+			"Gueltigkeit": "Keine Angabe",
+			"Message": "Die Order wurde erfolgreich angelegt."
+			
+		},
+		
+		"KaufOrder_Loeschen_Aktie": 
+		{
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Created_WKN": "703000",
+			"Status": "Offen",
+			"Message": "Ihre Orderstreichung wurde erfolgreich entgegengenommen."
+			
+		},
+		"KaufOrder_Loeschen_Fond": 
+		{
+			"UserID_Kontonummer": "880551009",
+		    "PIN_Password": "12345",
+			"Created_WKN": "632995 ",
+			"Status": "Offen",
+			"Message": "Ihre Orderstreichung wurde erfolgreich entgegengenommen."
+			
+		}
+		
+	}
+}

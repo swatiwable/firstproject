@@ -1,0 +1,39 @@
+{
+	"UC3_Dauerauftraege": {
+		"Dauerauftraege_Anlegen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Name": "DELTA BUERICZUEK",
+			"IBAN_oder_Kontonummer": "DE33 7603 0080 0880 5893 70",
+			"Betrag": "1",
+			"Intervall": "monatlich",
+			"Immer_am": "10.des.Monats",
+			"Startdatum": "future date",
+			"Unbegrenzt_gueltig": "select",
+			"Als_Vorlage_speichern": "select",
+			"Vorlagenname": "003 DELTA BUERICZUEK",
+			"Message": "Ihr Dauerauftrag wurde angenommen"
+		},
+		"Dauerauftraege_Andern": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Created_Dauerauftraege": "DE33 7603 0080 0880 5893 70",
+			"Betrag": "1,05",
+			"Intervall": "woechentlich",
+			"Immer_am": "Montag",
+			"Startdatum": "future date",
+			"Message": "Ihr Dauerauftrag wurde gespeichert"
+		},
+		"Dauerauftraege_loeschen": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Created_Dauerauftraege": "DE33 7603 0080 0880 5893 70",
+			"Message": "Ihr Dauerauftrag wurde gelöscht"
+		}
+	}
+}
+
+

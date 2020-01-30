@@ -1,0 +1,33 @@
+{
+	"UC16_Dauerlastschrift": {
+		"Dauerlastschrift_Anlegen": {
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto",
+			"IBAN_oder_Kontonummer": "DE14 5001 0517 0683 7622 55",
+			"Betrag": "50,00",
+			"Intervall": "monatlich",
+			"Immer_am": "10. des montas",
+			"Startdatum": "10.01.2020",
+			"Message": "Ihre Dauerlastschrift wurde angenommen"
+		},
+		"Dauerlastschrift_Andern": {
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto",
+			"Created_Dauerlastschrift": "DE14 5001 0517 0683 7622 55",
+			"Betrag": "100,05",
+			"Intervall": "alle 2 Wochen",
+			"Immer_am": "Mittwoch",
+			"Startdatum": "15.01.2020",
+			"Message": "Ihre Dauerlastschrift wurde gespeichert"
+		},
+		"Dauerlastschrift_loeschen": {
+			"UserID_Kontonummer": "253254184",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto",
+			"Created_Dauerlastschrift": "DE14 5001 0517 0683 7622 55",
+			"Message": "Ihre Dauerlastschrift wurde gelöscht"
+		}
+	}
+}

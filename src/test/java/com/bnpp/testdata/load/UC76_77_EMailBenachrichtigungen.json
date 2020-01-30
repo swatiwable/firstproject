@@ -1,0 +1,42 @@
+{
+	"UC76_77_EMailBenachrichtigungen": 
+	{
+		"EMail_Benachrichtigungen_Errors": 
+		{
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "",
+			"Statusaenderung_Einer_Offenen_Order": "",
+			"Ablauf_Gueltigkeit": "",
+			"CFD_Margin_Call": "",
+			"Hinweis_Benachrichtigungsservice": "",
+			"Messages" : "Hinweis: Bitte bestaetigen Sie durch Setzen des Hakens, dass Sie den Hinweis zur Kenntnis genommen haben."
+			
+		},
+
+		"EMail_Benachrichtigungen_Select": 
+		{
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "Select",
+			"Statusaenderung_Einer_Offenen_Order": "Select",
+			"Ablauf_Gueltigkeit": "Select",
+			"CFD_Margin_Call": "Select",
+			"Hinweis_Benachrichtigungsservice": "Select",
+			"Message": "Ihre aktuell gewählten E-Mailbenachrichtigungen",
+			"Status" : "Checked"
+		},
+		"EMail_Benachrichtigungen_Unselect": 
+		{
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Orderausfuehrung": "",
+			"Statusaenderung_Einer_Offenen_Order": "",
+			"Ablauf_Gueltigkeit": "",
+			"CFD_Margin_Call": "",
+			"Hinweis_Benachrichtigungsservice": "",
+			"Message": "Ihre aktuell gewählten E-Mailbenachrichtigungen",
+			"Status" : "Unchecked"
+		}
+	}
+}

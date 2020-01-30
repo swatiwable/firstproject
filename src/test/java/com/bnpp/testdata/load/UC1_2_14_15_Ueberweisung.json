@@ -1,0 +1,50 @@
+{
+	"UC1_2_14_15_Ueberweisung": {
+		"Ueberweisung_Anlegen_SEPA": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Account_Type": "Verechnungskonto",
+			"Art_der_Ueberweisung": "Euro-Ueberweisang(SEPA)",
+			"Name": "ALPHA BREITLING",
+			"IBAN_oder_Kontonummer": "DE33760300800880804031",
+			"Betrag": "1,00",
+			"Ausfuehrung": "naechstmoeglich",
+			"Message": "Ihre Überweisung wurde angenommen"
+		},
+		"Ueberweisung_Anlegen_SWIFT": {
+			"UserID_Kontonummer": "880804000",
+			"PIN_Password": "12345",
+			"Account_Type": "Verechnungskonto",
+			"Art_der_Ueberweisung": "Auslandsueberweisung(SWIFT)",
+			"Name": "NEMO CAPONE",
+			"IBAN_oder_Kontonummer": "AT741420020010256551",
+			"BIC": "EASYATW1XXX",
+			"Betrag": "1,00",
+			"Ausfuehrung": "naechstmoeglich",
+			"Gebuehrenregelung": "Entgeltteilung",
+			"Message": "Ihre Auslandsüberweisung wurde angenommen"
+		},
+		"Ueberweisung_Anlegen_Referenzkonton": {
+			"UserID_Kontonummer": "253254191",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto",
+			"Art_der_Ueberweisung": "Euro-Ueberweisang(SEPA)",
+			"Name": "NEMO CAPONE",
+			"IBAN_oder_Kontonummer": "DE71760300800253254184",
+			"Betrag": "1,00",
+			"Ausfuehrung": "naechstmoeglich",
+			"Message": "Ihre Überweisung wurde angenommen"
+		},
+		"Ueberweisung_Anlegen_TagesgeldToVerrechnungskonto": {
+			"UserID_Kontonummer": "880804017",
+			"PIN_Password": "12345",
+			"Account_Type": "Tagesgeldkonto",
+			"Art_der_Ueberweisung": "Euro-Ueberweisang(SEPA)",
+			"Name": "ALPHA BRILLE",
+			"IBAN_oder_Kontonummer": "DE10760300800253255767",
+			"Betrag": "1,05",
+			"Ausfuehrung": "naechstmoeglich",
+			"Message": "Ihre Überweisung wurde angenommen"
+		}
+	}
+}

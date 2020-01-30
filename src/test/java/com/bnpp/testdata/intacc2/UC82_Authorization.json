@@ -1,0 +1,18 @@
+{
+	"UC82_Authorization": 
+	{
+		"Session_TAN_Aktivieren": 
+			{
+				"UserID_Kontonummer": "880551009",
+		   	 	"PIN_Password": "12345",
+		   	 	"Ja_Mir_Sind" :"Select",
+				"Orderart": "Kaufen",
+				"Name_WKN_ISIN": "632995",
+				"Handelsplatz": "Fondsgesellschaft",
+				"NominalStueck_Betrag": "1",
+				"Message": "Die Order wurde erfolgreich angelegt.",
+				"SessionActivate_Link": "Session-TAN aktivieren"
+			}
+			
+	}
+}			

@@ -1,0 +1,33 @@
+{
+	"UC78_79_Aboservice": 
+	{
+		"Aboservice_Verify_Errors": 
+			{
+				"UserID_Kontonummer": "880589404",
+				"PIN_Password": "12345",
+				"Abonnieren": "",
+				"ErrorMesssages": "NewsLetter:Bitte wählen Sie ein Abo aus."
+			},	
+			"Aboservice_Setzen": 
+			{
+				"UserID_Kontonummer": "880589404",
+				"PIN_Password": "12345",
+				"Abonnieren": "Select",
+				"Message": "Ihre ausgewaehlten Produkte wurden abonniert.",
+				"Abonnement": "AktienInspektor Update",
+				"Nutzungsart": "PRIVAT-Nutzung",
+				"Preis": "0,00 EUR pro Monat inkl. MwSt."
+			},
+			"Aboservice_Zuruecksetzen": 
+			{
+				"UserID_Kontonummer": "880589404",
+				"PIN_Password": "12345",
+				"Abo_kuendigen": "Select",
+				"Message": "Ihre ausgewaehlten Abos wurden erfolgreich gekündigt!",
+				"Abonnement": "Newsletter - AktienInspektor Update",
+				"Preis": "0,00 EUR pro Monat inkl. MwSt.",
+				"Kuendigung_zum": "19.09.2019",
+				"Cancelled_on" : "Gekuendigt zum 19.09.2019"
+			}
+	}
+}			

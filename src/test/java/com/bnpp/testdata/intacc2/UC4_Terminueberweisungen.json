@@ -1,0 +1,32 @@
+{
+	"UC4_Terminueberweisungen": {
+		"Terminueberweisungen_Anlegen": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Name": "DELTA BUERICZUEK",
+			"IBAN_oder_Kontonummer": "DE33 7603 0080 0880 5893 70",
+			"Betrag": "1,00",
+			"Datum": "20.10.2019",
+			"Als_Vorlage_speichern": "select",
+			"Vorlagenname": "004 DELTA BUERICZUEK",
+			"Message": "Ihre Terminüberweisung wurde angenommen"
+		},
+		"Terminueberweisungen_Andern": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Created_Terminueberweisungen": "DE33 7603 0080 0880 5893 70",
+			"Betrag": "1,01",
+			"Datum": "20.10.2019",
+			"Message": "Ihre Terminueberweisung wurde gespeichert"
+		},
+		"Terminueberweisungen_Loeschen": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Created_Terminueberweisungen": "DE33 7603 0080 0880 5893 70",
+			"Message": "Ihre Terminueberweisung wurde geloescht"
+		}
+	}
+}

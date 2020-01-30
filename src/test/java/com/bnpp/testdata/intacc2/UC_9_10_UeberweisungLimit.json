@@ -1,0 +1,31 @@
+{
+	"UC_9_10_UeberweisungLimit": {
+		"Ueberweisungslimit_Verify_Errors": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Uberweisungslimit": "null",
+			"Ich_bestaetige": "null",
+			"ErrorMesssages": {
+				"UberweisungslimitMessage": "Bitte fuellen Sie das Pflichtfeld aus",
+				"IchBestaetigeMessage": "Bitte bestaetigen Sie, dass Sie die Hinweise gelesen haben"
+			}
+		},
+		"Ueberweisungslimit_MaxLimit_Error": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Uberweisungslimit": "51000",
+			"Ich_bestaetige": "select",
+			"Message": "Eine Erhoehung des Ueberweisungslimits ist aus Sicherheitsgruenden nur schriftlich moeglich."
+		},
+		"Ueberweisungslimit_Aendern": {
+			"UserID_Kontonummer": "880551009",
+			"PIN_Password": "12345",
+			"Account_Type": "Verrechnungskonto",
+			"Uberweisungslimit": "49000",
+			"Ich_bestaetige": "select",
+			"Message": "Ihre Aenderung zum Ueberweisungslimit wurde angenommen"
+		}
+	}
+}
